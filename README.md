@@ -11,6 +11,9 @@
   <a href="https://github.com/sailesh720/moss-companion">
     <img src="https://img.shields.io/badge/Building-Moss%20Companion-6E56CF?style=for-the-badge" alt="Moss Companion">
   </a>
+  <a href="https://moss-companion.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Moss-0F766E?style=for-the-badge" alt="Visit Moss Companion">
+  </a>
 </p>
 
 </div>
@@ -19,10 +22,12 @@
 
 I enjoy turning ambitious ideas into calm, practical products. My current focus is building desktop software that feels personal without sending private data to the cloud.
 
-- 🛠️ Currently building **[Moss Companion]([https://github.com/sailesh720/moss-companion](https://moss-companion.vercel.app/))** — a privacy-first animated desktop companion
+- 🛠️ Currently building **[Moss Companion](https://github.com/sailesh720/moss-companion)** — a privacy-first animated desktop companion
 - 🧠 Interested in **AI on the edge, desktop UX, automation, and human-centered tools**
 - 🔒 Prefer **local-first architecture**, transparent permissions, and products that respect their users
 - 🎯 I care about the details: interaction design, reliable behavior, testing, and polished interfaces
+
+🌿 **[Visit Moss Companion](https://moss-companion.vercel.app/)**
 
 ## Featured projects
 
