@@ -19,7 +19,7 @@
 
 I enjoy turning ambitious ideas into calm, practical products. My current focus is building desktop software that feels personal without sending private data to the cloud.
 
-- 🛠️ Currently building **[Moss Companion](https://github.com/sailesh720/moss-companion)** — a privacy-first animated desktop companion
+- 🛠️ Currently building **[Moss Companion]([https://github.com/sailesh720/moss-companion](https://moss-companion.vercel.app/))** — a privacy-first animated desktop companion
 - 🧠 Interested in **AI on the edge, desktop UX, automation, and human-centered tools**
 - 🔒 Prefer **local-first architecture**, transparent permissions, and products that respect their users
 - 🎯 I care about the details: interaction design, reliable behavior, testing, and polished interfaces
